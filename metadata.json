@@ -1,0 +1,5 @@
+{
+  "name": "Candya R. — Assistante virtuelle",
+  "description": "Organisation administrative et support client écrit pour coachs et formateurs en ligne.",
+  "capabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
